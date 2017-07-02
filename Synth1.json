@@ -1,7 +1,7 @@
 {
-    "homepage": "http://www.reaper.fm/index.php",
+    "homepage": "http://www.geocities.jp/daichi1969/",
     "license": "freeware",
     "version": "1.13-beta3",
-    "url": "http://www.reaper.fm/files/5.x/reaper540_x64-install.exe#/dl.7z",
+    "url": "http://www.geocities.jp/daichi1969/softsynth/Synth1V113beta3.zip",
     "extract_to" : "$dir+\VstPlugins"
 }
