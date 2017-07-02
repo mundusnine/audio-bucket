@@ -10,7 +10,7 @@
 	    "32bit":{   
 		    "url": "https://github.com/rorywalsh/cabbage/releases/download/v1.1.0/Cabbage32Setup.exe#/dl.7z"}
     },
-    "bin": [ "Cabbage64.exe", CabbageStudio64.exe ],
+    "bin": [ "Cabbage64.exe", "CabbageStudio64.exe" ],
     "shortcuts": [
         [ "Cabbage64.exe", "cabbage" ],
         [ "CabbageStudio64.exe", "cabbageStudio"]
