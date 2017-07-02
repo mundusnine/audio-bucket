@@ -1,5 +1,5 @@
 {
-    "version": "1.20.0 RC3",
+    "version": "1.20.0RC3",
     "architecture":{
 	    "64bit":{
 		    "url": "https://github.com/LMMS/lmms/releases/download/v1.2.0-rc3/lmms-1.2.0-rc3-win64.exe#/dl.7z"},
