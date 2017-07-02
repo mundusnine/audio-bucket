@@ -10,9 +10,9 @@
 	    "32bit":{   
 		    "url": "https://github.com/LMMS/lmms/releases/download/v1.2.0-rc3/lmms-1.2.0-rc3-win32.exe#/dl.7z"}
     },
-    "bin": [ "lmms-beta.exe" ],
+    "bin": [ "bin\\lmms.exe", "lmms-beta" ],
     "shortcuts": [
-        [ "lmms.exe", "lmms-beta" ]
+        [ "lmms-beta", "lmms-beta" ]
     ]
 		    
 	
