@@ -16,7 +16,7 @@
             "/VERYSILENT"
         ]
      },
-    "bin": [ "Cabbage64.exe", CabbageStudio64.exe ],
+    "bin": [ "Cabbage64.exe", "CabbageStudio64.exe" ],
     "shortcuts": [
         [ "Cabbage64.exe", "cabbage" ],
         [ "CabbageStudio64.exe", "cabbageStudio"]

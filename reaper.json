@@ -10,7 +10,10 @@
 	    "32bit":{   
 		    "url": "http://www.reaper.fm/files/5.x/reaper540-install.exe#/dl.7"}
     },
-    "bin": [ "reaper.exe", "Reaper DAW" ],
+    "uninstaller" : {
+     "file": "Uninstall.exe.nsis"
+    },
+    "bin": [ "reaper.exe"],
     "shortcuts": [
         [ "reaper.exe", "reaper" ]
     ]
