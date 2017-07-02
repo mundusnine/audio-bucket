@@ -1,0 +1,21 @@
+{
+    "homepage": "http://cabbageaudio.com/",
+    "license": "GPLv3",
+    "version": "1.1.0",
+    "architecture":{
+	    "64bit":{
+		    "url": "https://github.com/rorywalsh/cabbage/releases/download/v1.1.0/Cabbage64Setup.exe#/dl.7z",
+                    "hash": "d6430d3426825ebe95147497d011451c7e7b01d9c955ddfa6fa00c5386de1db6"},
+	    	    
+	    "32bit":{   
+		    "url": "https://github.com/rorywalsh/cabbage/releases/download/v1.1.0/Cabbage32Setup.exe#/dl.7z"}
+    },
+    "bin": [ "Cabbage64.exe", CabbageStudio64.exe ],
+    "shortcuts": [
+        [ "Cabbage64.exe", "cabbage" ]
+        [ "CabbageStudio64.exe", "cabbageStudio"]
+    ]
+		    
+	
+
+}
