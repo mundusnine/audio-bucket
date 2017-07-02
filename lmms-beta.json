@@ -12,7 +12,7 @@
     },
     "bin": [ "lmms.exe" ],
     "shortcuts": [
-        [ "lmms.exe", "lmms-beta" ]
+        [ "lmms.exe", "lmmsBeta" ]
     ]
 		    
 	
