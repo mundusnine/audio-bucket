@@ -18,12 +18,12 @@
      },
     "bin": [
         [
-            "bin\\voicemeeterpro.exe",
-            "voicemeeterBanana"
+            "bin\\VoicemeeterProSetup.exe",
+            "voicemeeterpro.exe"
         ]
     ],
     "shortcuts": [
-        [ "voiceneeterBanana", "voicemeeter" ]
+        [ "voicemeeterpro.exe", "voicemeeter" ]
     ]
 		    
 	
