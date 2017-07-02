@@ -1,0 +1,31 @@
+{
+    "homepage": "http://www.vb-audio.com/",
+    "license": "MIT",
+    "version": "2.0.3",
+    "url": "http://vbaudio.jcedeveloppement.com/Download_CABLE/VoicemeeterProSetup.exe",
+    "installer": {
+        "args": [
+            "/VERYSILENT",
+            "/NORESTART",
+            "/DIR=\"$dir\""
+        ]
+    },
+    "uninstaller": {
+        "file": "uninst\\unins000.exe",
+        "args": [
+            "/VERYSILENT"
+        ]
+     },
+    "bin": [
+        [
+            "bin\\voicemeeter.exe",
+            "voicemeeterBanana"
+        ]
+    ],
+    "shortcuts": [
+        [ "voiceneeter.exe", "voicemeeter" ]
+    ]
+		    
+	
+
+}
