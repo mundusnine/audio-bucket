@@ -1,0 +1,7 @@
+{
+    "homepage": "http://www.reaper.fm/index.php",
+    "license": "freeware",
+    "version": "1.13-beta3",
+    "url": "http://www.reaper.fm/files/5.x/reaper540_x64-install.exe#/dl.7z",
+    "extract_to" : "$dir+\VstPlugins"
+}

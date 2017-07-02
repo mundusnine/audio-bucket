@@ -3,19 +3,6 @@
     "license": "MIT",
     "version": "2.0.3",
     "url": "http://vbaudio.jcedeveloppement.com/Download_CABLE/VoicemeeterProSetup.exe#/dl.7z",
-    "installer": {
-        "args": [
-            "/VERYSILENT",
-            "/NORESTART",
-            "/DIR=\"$dir\""
-        ]
-    },
-    "uninstaller": {
-        "file": "uninst\\unins000.exe",
-        "args": [
-            "/VERYSILENT"
-        ]
-     },
     "bin": [
         [
             "bin\\VoicemeeterProSetup.exe",

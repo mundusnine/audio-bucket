@@ -1,0 +1,20 @@
+{
+    "homepage": "http://www.reaper.fm/index.php",
+    "license": "http://www.reaper.fm/dist-agreement.php",
+    "version": "5.40",
+    "architecture":{
+	    "64bit":{
+		    "url": "http://www.reaper.fm/files/5.x/reaper540_x64-install.exe#/dl.7z",
+                    "hash": "d6430d3426825ebe95147497d011451c7e7b01d9c955ddfa6fa00c5386de1db6"},
+	    	    
+	    "32bit":{   
+		    "url": "http://www.reaper.fm/files/5.x/reaper540-install.exe#/dl.7"}
+    },
+    "bin": [ "reaper.exe", "Reaper DAW" ],
+    "shortcuts": [
+        [ "reaper.exe", "reaper" ]
+    ]
+		    
+	
+
+}
