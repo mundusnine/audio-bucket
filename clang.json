@@ -5,13 +5,11 @@
     "architecture": {
         "64bit": {
             "url": "http://releases.llvm.org/4.0.1/LLVM-4.0.1-win64.exe#/dl.7z",
-            "hash": "",
-            "extract_dir": "clang++x64"
+            "hash": "139ba95f9f88199cdc419a674f0a85df3568367623486336843207a4982e36e9",
         },
         "32bit": {
             "url": "http://releases.llvm.org/4.0.1/LLVM-4.0.1-win32.exe",
             "hash": "",
-            "extract_dir": "clang++x32"
         }
     },
     "env_add_path": "bin"
