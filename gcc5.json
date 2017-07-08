@@ -1,15 +1,17 @@
 {
     "homepage": "https://mingw-w64.org",
-    "version": "5.4.1",
+    "version": "5.4.0",
     "license": "GPL3",
     "architecture": {
         "64bit": {
-            "url": "https://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win64/Personal%20Builds/dongsheng-daily/5.x/gcc-5-win64_5.4.1-20160825.7z",
-            "hash": "566698131d1fb91566917b6335d29db93efdb0aa539bc14cb5e3063d08dca3e3"
+            "url": "https://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win64/Personal%20Builds/mingw-builds/5.4.0/threads-posix/seh/x86_64-5.4.0-release-posix-seh-rt_v5-rev0.7z",
+            "hash": "2d0e72340ffa14916d4469db25c37889e477f8f1f49ba4f77155830ddc1dca89",
+            "extract_dir": "mingw64"
         },
         "32bit": {
-            "url": "https://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win32/Personal%20Builds/dongsheng-daily/5.x/gcc-5-win32_5.4.1-20160825.7z",
-            "hash": ""
+            "url": "https://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win32/Personal%20Builds/mingw-builds/5.4.0/threads-posix/dwarf/i686-5.4.0-release-posix-dwarf-rt_v5-rev0.7z",
+            "hash": "8f7381e8ed61c438d36d33ae2f514a7ca8065c44dcf6801847fd425f71a9ee1d",
+            "extract_dir": "mingw32"
         }
     },
     "env_add_path": "bin",
