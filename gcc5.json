@@ -5,13 +5,11 @@
     "architecture": {
         "64bit": {
             "url": "https://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win64/Personal%20Builds/dongsheng-daily/5.x/gcc-5-win64_5.4.1-20160825.7z",
-            "hash": "",
-            "extract_dir": "mingw64"
+            "hash": "566698131d1fb91566917b6335d29db93efdb0aa539bc14cb5e3063d08dca3e3"
         },
         "32bit": {
             "url": "https://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win32/Personal%20Builds/dongsheng-daily/5.x/gcc-5-win32_5.4.1-20160825.7z",
-            "hash": "",
-            "extract_dir": "mingw32"
+            "hash": ""
         }
     },
     "env_add_path": "bin",
