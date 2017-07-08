@@ -5,12 +5,12 @@
     "architecture": {
         "64bit": {
             "url": "https://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win64/Personal%20Builds/mingw-builds/5.4.0/threads-posix/seh/x86_64-5.4.0-release-posix-seh-rt_v5-rev0.7z",
-            "hash": "2d0e72340ffa14916d4469db25c37889e477f8f1f49ba4f77155830ddc1dca89",
+            "hash": "e7dfb1fd837afcc930b3fe150df5e130e79f611293eb362d1217ce5e593a7993",
             "extract_dir": "mingw64"
         },
         "32bit": {
             "url": "https://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win32/Personal%20Builds/mingw-builds/5.4.0/threads-posix/dwarf/i686-5.4.0-release-posix-dwarf-rt_v5-rev0.7z",
-            "hash": "8f7381e8ed61c438d36d33ae2f514a7ca8065c44dcf6801847fd425f71a9ee1d",
+            "hash": "",
             "extract_dir": "mingw32"
         }
     },
