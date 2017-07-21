@@ -1,0 +1,33 @@
+{
+    "homepage": "https://www.ableton.com/en/",
+    "license": "Commercial",
+    "version": "9.7.3",
+    "architecture":{
+	    "64bit":{
+		    "url": "http://cdn2-downloads.ableton.com/channels/9.7.3/ableton_live_suite_9.7.3_64.zip/#dl.7z",
+                    "hash": ""},
+	    	    
+	    "32bit":{   
+		    "url": http://cdn2-downloads.ableton.com/channels/9.7.3/ableton_live_suite_9.7.3_64.zip/#dl.7z"}
+    },
+    "installer": {
+        "args": [
+            "/VERYSILENT",
+            "/NORESTART",
+            "/DIR=\"$dir\""
+        ]
+    },
+    "uninstaller": {
+        "file": "uninst\\unins000.exe",
+        "args": [
+            "/VERYSILENT"
+        ]
+    },
+    "bin": [ "Ableton Live 9 Suite.exe" ],
+    "shortcuts": [
+        [ "Ableton Live 9 Suite.exe", "ableton" ]
+    ]
+		    
+	
+
+}
