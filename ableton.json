@@ -2,12 +2,12 @@
     "homepage": "https://www.ableton.com/",
     "license": "MIT",
     "version": "9.7.3",
-    "architecture":{
-	    "64bit":{
+    "architecture": {
+	    "64bit": {
 		    "url": "http://cdn2-downloads.ableton.com/channels/9.7.3/ableton_live_suite_9.7.3_64.zip/#dl.7z",
                     "hash": ""},
 	    	    
-	    "32bit":{   
+	    "32bit": {   
 		    "url": http://cdn2-downloads.ableton.com/channels/9.7.3/ableton_live_suite_9.7.3_32.zip/#dl.7z"}
     },
 }
