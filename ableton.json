@@ -3,7 +3,8 @@
     "url": "http://cdn2-downloads.ableton.com/channels/9.7.3/ableton_live_suite_9.7.3_64.zip",
     "installer": {
         "args": [
-            "/s",
+            "/VERYSILENT",
+            "/NORESTART",
             "INSTALLDIR=$dir"
         ]
      },
