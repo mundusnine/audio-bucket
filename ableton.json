@@ -1,6 +1,11 @@
 {
     "version": "9.7.3",
     "url": "http://cdn2-downloads.ableton.com/channels/9.7.3/ableton_live_suite_9.7.3_64.zip",
-    "extract_dir": "Setup.msi",
+    "installer": {
+        "args": [
+            "/s",
+            "INSTALLDIR=$dir"
+        ]
+     },
     "bin": ["Ableton Live 9 Suite.exe", "ableton"]
 }
