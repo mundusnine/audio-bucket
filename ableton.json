@@ -2,7 +2,6 @@
     
     "version": "9.7.3",
     "url": "http://cdn2-downloads.ableton.com/channels/$matchVersion/ableton_live_suite_$matchVersion_64.zip",
-    "hash": "fa993675c9411834bb1cc9e579555afcc85f18043092fe84872210aa2354f540",
     "extract_dir": "Setup.msi",
     "bin": ["Ableton Live 9 Suite.exe", "ableton"]
 }
