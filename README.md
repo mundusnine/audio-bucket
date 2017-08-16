@@ -1,2 +1,2 @@
-# m9-bucket
+# audio-bucket
 A bucket-list for scoop.sh
