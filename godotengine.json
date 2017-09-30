@@ -8,5 +8,7 @@
 		"url": "https://godotengine.org/download",
 		"re": "Godot Engine (\d.\d.\d)+-stable"
 	},
-	"autoupdate": { "https://downloads.tuxfamily.org/godotengine/$version/Godot_v$version-stable_win32.exe.zip"}
+	"autoupdate": {
+	       "url": "https://downloads.tuxfamily.org/godotengine/$version/Godot_v$version-stable_win32.exe.zip"
+	}
 }
