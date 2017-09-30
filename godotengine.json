@@ -1,0 +1,15 @@
+{
+	"homepage": "https://godotengine.org/",
+	"license": "MIT",
+	"version": "2.1.3",
+	"url": "https://downloads.tuxfamily.org/godotengine/2.1.3/Godot_v2.1.3-stable_win32.exe.zip#dl.7z",
+	"hash": "",
+	"checkver": {
+		"url": "https://godotengine.org/download",
+		"re": "Godot Engine ([\\d.]+)"
+	},
+	"autoupdate": "https://downloads.tuxfamily.org/godotengine/$version/Godot_v$version-stable_win32.exe.zip#dl.7z",
+	,
+	"shortcuts": ""
+	
+}
