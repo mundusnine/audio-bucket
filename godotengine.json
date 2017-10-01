@@ -17,6 +17,9 @@
 
       },
 
-      "hash":{ "url": "$baseurl/SHASUMS256.txt.asc"}
-    }
+      "hash":{
+	     "mode": "extract", 
+	      "url": "$url.sha256"}
+    },
+    "bin": [ "Godot_v$version-stable_win64", "godot" ]
 }
