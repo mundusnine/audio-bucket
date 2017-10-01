@@ -21,8 +21,5 @@
 	     "mode": "extract", 
 	      "url": "$url.sha256"}
     },
-    "env_add_path": "bin",
-    "env_set": {
-	  "godotengine": "$dir"
-    }	  
+    "bin": ["Godot_v2.1.4-stable_win64.exe"]	  
 }
