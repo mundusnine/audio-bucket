@@ -1,9 +1,0 @@
-{
-	"homepage": "https://scons.org",
-	"license": "MIT",
-	"version": "3.0.0",
-	"url": "https://downloads.sourceforge.net/project/scons/scons/3.0.0/scons-3.0.0-setup.exe?r=http%3A%2F%2Fscons.org%2Fpages%2Fdownload.html&ts=1506805669&use_mirror=cytranet",
-	"hash": "",
-	"install": { "args": [ "/s"]},
-	"depends": "python27"	
-}
