@@ -4,7 +4,7 @@
     "version": "0.3.1",
     "url": "https://github.com/GodotExplorer/godot-tools/archive/master.zip",
     "extract_dir": "godot-tools-master",
-    "extract_to": "%USERPROFILE%\\.vscode\\extensions", 
+    "extract_to": "C:\\%USERPROFILE%\\.vscode\\extensions", 
     "checkver": "https://github.com/GodotExplorer/godot-tools",
     "autoupdate": {"url": "https://github.com/GodotExplorer/godot-tools/archive/master.zip"}
 
