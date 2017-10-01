@@ -6,6 +6,5 @@
     "extract_dir": "godot-tools-master",
     "checkver": "https://github.com/GodotExplorer/godot-tools",
     "autoupdate": {"url": "https://github.com/GodotExplorer/godot-tools/archive/master.zip"},
-   "post_install": "Copy-Item -Path "$($env:USERPROFILE)\\scoop\\apps\\godot-devtools\\$version" -Destination "$($env:userprofile)\\.vscode\\.extensions\\geequlim.godot-tools-$version)""
-
+    "post_install": "Copy-Item -Path "$($env:USERPROFILE)\scoop\apps\godot-devtools\0.3.1\README.md" -Destination "$($env:userprofile)\.vscode\extensions\geequlim.godot-tools-0.3.1" -Recurse",
 }
