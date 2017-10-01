@@ -1,10 +1,10 @@
 {
     "homepage": "https://godotengine.org/",
     "license": "MIT",
-    "version": "2.1.4",
+    "version": "2.1.3",
     "architecture":{
-	  "64bit" : {"url": "https://downloads.tuxfamily.org/godotengine/2.1.4/Godot_v2.1.4-stable_win64.exe.zip"},
-	  "32bit":{"url": "https://downloads.tuxfamily.org/godotengine/2.1.4/Godot_v2.1.4-stable_win32.exe.zip"}
+	  "64bit" : {"url": "https://downloads.tuxfamily.org/godotengine/2.1.3/Godot_v2.1.3-stable_win64.exe.zip"},
+	  "32bit":{"url": "https://downloads.tuxfamily.org/godotengine/2.1.3/Godot_v2.1.3-stable_win32.exe.zip"}
     },
     "checkver": {
         "url": "https://github.com/godotengine/godot/releases",
@@ -21,5 +21,5 @@
 	     "mode": "extract", 
 	      "url": "$url.sha256"}
     },
-    "bin":[ "Godot_v2.1.4-stable_win64.exe", ["Godot_v2.1.4-stable_win64.exe", "godot"]	]  
+    "bin":[ "Godot_v2.1.3-stable_win64.exe", ["Godot_v2.1.3-stable_win64.exe", "godot"]	]  
 }
