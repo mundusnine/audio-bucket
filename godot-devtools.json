@@ -7,6 +7,6 @@
     "checkver": "https://github.com/GodotExplorer/godot-tools",
     "autoupdate": {"url": "https://github.com/GodotExplorer/godot-tools/archive/master.zip"},
     "pre_install": "if(Test-Path %USERPROFILE%\\.vscode\\.extensions\\geequlim.godot-tools-$version) {Create-Item %USERPROFILE%\\.vscode\\.extensions\\geequlim.godot-tools-$version}",
-    "post_install": "Copy-Item -Path $dir\\godot-devtools -Destination %USERPROFILE%\\.vscode\\.extensions\\geequlim.godot-tools-$version"
+    "post_install": "Copy-Item -Path %USERPROFILE%\\scoop\\godot-devtools\\$version -Destination %USERPROFILE%\\.vscode\\.extensions\\geequlim.godot-tools-$version"
 
 }
