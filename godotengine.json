@@ -14,7 +14,9 @@
 	    "architecture":{
       "64bit": { "url": "https://downloads.tuxfamily.org/godotengine/$version/Godot_v$version-stable_win64.exe.zip"},
       "32bit": { "url": "https://downloads.tuxfamily.org/godotengine/$version/Godot_v$version-stable_win32.exe.zip"}
+	
 
+	}
       },
 
     },
