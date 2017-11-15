@@ -27,7 +27,7 @@
         }
     },
     "bin": [
-        "Godot_v$version-stable_win64.exe",
+        "Godot_v2.1.4-stable_win64.exe",
         [
             "Godot_v$version-stable_win64.exe",
             "godot"
