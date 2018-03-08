@@ -1,0 +1,36 @@
+{
+    "homepage": "http://meldmerge.org/",
+    "license": "MIT",
+    "version": "3.16.2",
+    "architecture": {
+        "64bit": {
+            "url": "",
+            "hash": ""
+        },
+        "32bit": {
+            "url": "https://download.gnome.org/binaries/win32/meld/3.16/Meld-3.16.2-win32.msi",
+            "hash": ""
+        }
+    },
+    "checkver": {
+        "url": "http://meldmerge.org/",
+        "re": "Meld ([\\d.\\d.]+)"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": ""
+            },
+            "32bit": {
+                "url": "https://download.gnome.org/binaries/win32/meld/3.16/Meld-$version-win32.msi"
+            }
+        }
+    },
+    "bin": [
+        "Meld.exe",
+        [
+            "Meld.exe",
+            "meld"
+        ]
+    ]
+}
