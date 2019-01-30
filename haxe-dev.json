@@ -1,12 +1,9 @@
-
 {
     "homepage": "https://haxe.org/",
-    "version": "4.0.0-preview.4",
+    "version": "4.0.0-preview.5",
     "license": "GPL-2.0-or-later",
-    "url": "https://github.com/HaxeFoundation/haxe/releases/download/4.0.0-preview.4/haxe-4.0.0-preview.4-win.zip",
-    "hash": {
-        "url": "$url.sha256"
-    },
+    "url": "https://github.com/HaxeFoundation/haxe/releases/download/4.0.0-preview.5/haxe-4.0.0-preview.5-win.zip",
+    "hash": "fa632a480b4cc7a4cdb868d84bcf0d3b4af7e8bdcd91abaedd8e25ecc78ac03d",
     "bin": [
         "haxe.exe",
         "haxelib.exe"
@@ -23,7 +20,8 @@
         "}"
     ],
     "checkver": {
-        "github": "https://github.com/HaxeFoundation/haxe"
+        "url": "https://github.com/HaxeFoundation/haxe/releases",
+        "re": "([\\d.]+-preview[\\d.]+)"
     },
     "autoupdate": {
         "url": "https://github.com/HaxeFoundation/haxe/releases/download/$matchHead$matchTail/haxe-$matchHead$matchTail-win.zip"
