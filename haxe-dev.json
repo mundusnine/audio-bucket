@@ -1,6 +1,6 @@
 {
     "homepage": "https://haxe.org/",
-    "description": "Pre-release version of Haxe, an open source toolkit based on a modern, high level, strictly typed programming language, a cross-compiler, a complete cross-platform standard library and ways to access each platform's native capabilities.",
+    "description": "Pre-release version of Haxe, for a stable version use haxe. Haxe is an open source toolkit based on a modern, high level, strictly typed programming language, a cross-compiler, a complete cross-platform standard library and ways to access each platform's native capabilities.",
     "version": "4.0.0-preview.5",
     "license": "GPL-2.0-or-later",
     "architecture": {
