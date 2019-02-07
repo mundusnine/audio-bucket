@@ -30,7 +30,7 @@
     ],
     "checkver": {
         "url": "https://github.com/HaxeFoundation/haxe/releases",
-        "re": "([\\d.]+-preview[\\d.]+)|([\\d.]+-rc[\\d.]+)"
+        "re": "([\\d.]+-preview[\\d.]+)\\b|([\\d.]+-rc[\\d.]+)\\b"
     },
     "autoupdate": {
         "architecture": {
