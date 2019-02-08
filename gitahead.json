@@ -16,6 +16,13 @@
     "checkver": {
         "github": "https://github.com/gitahead/gitahead/"
     },
+    "bin": "GitAhead.exe",
+    "shortcuts": [
+        [
+            "GitAhead.exe",
+            "gitahead"
+        ]
+    ],
     "autoupdate": {
         "architecture": {
             "64bit": {
