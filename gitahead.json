@@ -1,20 +1,20 @@
 {
     "homepage": "http://gitahead.scitools.com/",
     "description": "The elegant git gui for dev teams",
-    "version": "v2.5.3",
+    "version": "2.5.3",
     "license": "MIT",
     "architecture": {
         "64bit": {
             "url": "https://github.com/gitahead/gitahead/releases/download/v2.5.3/GitAhead-win64-2.5.3.exe#/dl.7z",
-            "hash": "ef533d35e628cf8bb28753ef25c242ecc439173bfb2abaddcad9eee690d0b9c0"
+            "hash": "da50ca5f2a7f75575c1efbf2f6e90daa6b049e26b3be3bf6d6eda4eea253cc22"
         },
         "32bit": {
             "url": "https://github.com/gitahead/gitahead/releases/download/v2.5.3/GitAhead-win32-2.5.3.exe#/dl.7z",
-            "hash": "5ab125971dc8696af30035dc5af44a68a2f956d53682ca4f4c021c30b09e87f5"
+            "hash": "f95ad6c6ec2f7b908e3a33a13ec80556ad9822210b603ae34a09667165345404"
         }
     },
     "checkver": {
-        "github": "https://github.com/gitahead/gitahead/releases"
+        "github": "https://github.com/gitahead/gitahead/"
     },
     "autoupdate": {
         "architecture": {
