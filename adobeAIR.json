@@ -3,9 +3,7 @@
     "version": "32.0",
     "license": "Adobe Software Licensing Agreement",
     "url": "https://airdownload.adobe.com/air/win/download/32.0/AdobeAIRInstaller.exe#/dl.7z",
-    "hash": {
-        "url": "$url.sha256"
-    },
+    "hash": "",
     "checkver": {
         "url": "https://get.adobe.com/air/",
         "re": "Version +([\\d\\.]+[\\d\\.])"
