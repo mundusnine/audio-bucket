@@ -6,7 +6,7 @@
     "hash": "59d950c3bc28c207ebf9a9bc315da972c4780cf3eaf4f6001e0fee854d573510",
     "depends": "adobeAIR",
     "pre_install": [
-        "airInstaller ShoeBox_$version_public.air"
+        "Adobe AIR Installer.exe ShoeBox_3.6.5_public.air"
     ],
     "checkver": {
         "url": "http://renderhjs.net/shoebox/air/",
