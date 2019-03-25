@@ -1,0 +1,15 @@
+{
+   "homepage": "https://get.adobe.com/air/",
+    "version": "32.0",
+    "license": "Adobe Software Licensing Agreement",
+    "url": "https://airdownload.adobe.com/air/win/download/32.0/AdobeAIRInstaller.exe#/dl.7z",
+    "hash": "url.SHA256",
+    "checkver": {
+        "url": "https://get.adobe.com/air/",
+        "re": "Version +([\\d\\.]+[\\d\\.])"
+    },
+    "autoupdate": {
+        "url": "https://airdownload.adobe.com/air/win/download/$version/AdobeAIRInstaller.exe#/dl.7z",
+        "hash": "url.SHA256"
+    }
+}

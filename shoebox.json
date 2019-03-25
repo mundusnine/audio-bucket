@@ -1,0 +1,16 @@
+{
+   "homepage": "http://renderhjs.net/shoebox/",
+    "version": "3.6.5",
+    "license": "Free",
+    "url": "https://renderhjs.net/shoebox/air/ShoeBox_3.6.5_public.air",
+    "hash": "url.SHA256",
+    "depends": "adobeAIR",
+    "checkver": {
+        "url": "http://renderhjs.net/shoebox/air/",
+        "re": "ShoeBox_+([\\d\\.]+[\\d\\.]+[\\d\\.])+_public"
+    },
+    "autoupdate": {
+        "url": "https://renderhjs.net/shoebox/air/ShoeBox_$version_public.air",
+        "hash": "url.SHA256"
+    }
+}
