@@ -3,9 +3,7 @@
     "version": "3.6.5",
     "license": "Free",
     "url": "https://renderhjs.net/shoebox/air/ShoeBox_3.6.5_public.air",
-    "hash": {
-        "url": "$url.sha256"
-    },
+    "hash": "",
     "depends": "adobeAIR",
     "checkver": {
         "url": "http://renderhjs.net/shoebox/air/",
